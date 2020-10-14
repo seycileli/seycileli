@@ -4,16 +4,16 @@
 
 <h3 align="center">My Dev info</h3>
 
-<!-- most used languages -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seycileli&layout=compact"
-        alt="seycileli"/></p>
-
 <!-- my stats -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=seycileli&show_icons=true"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=seycileli&show_icons=true"
+                     alt="seycileli"/></p>
+
+<!-- most used languages -->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seycileli&layout=compact"
         alt="seycileli"/></p>
 
 <!-- profile views -->
-<p><img align="right"
+<p align="right"><img
         src="https://komarev.com/ghpvc/?username=seycileli&label=Profile%20views&color=0e75b6&style=flat"
         alt="seycileli"/></p><br><hr>
 
