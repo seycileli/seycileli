@@ -1,16 +1,19 @@
-### Hello 👋
+<h1 align="center">Hi 👋, I'm Seyhan</h1>
+<h3 align="center" style="margin: 10px; padding: 10px">I am passionate developer from New York City. I am Self-Taught + coding Bootcamp alum, I have a
+    desire for learning through curiosity and love for technology.</h3>
 
-<!--
-**seycileli/seycileli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">My Dev info</h3>
 
-Here are some ideas to get you started:
+<!-- most used languages -->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seycileli&layout=compact"
+        alt="seycileli"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- my stats -->
+<p><img src="https://github-readme-stats.vercel.app/api?username=seycileli&show_icons=true"
+        alt="seycileli"/></p>
+
+<!-- profile views -->
+<p><img align="right"
+        src="https://komarev.com/ghpvc/?username=seycileli&label=Profile%20views&color=0e75b6&style=flat"
+        alt="seycileli"/></p><br><hr>
+
