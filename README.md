@@ -11,5 +11,6 @@ You can find me on these platforms <br>
   <a href="http://linkedin.com/in/seyhancileli/">LinkedIn</a>
   <br><a href="https://twitter.com/seycileli">Twitter<a>
   <br><a href="https://www.figma.com/@seycileli">Figma<a>
+  <br>
   <br>Let's connect 🤙
 </p>
