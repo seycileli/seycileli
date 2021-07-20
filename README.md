@@ -3,7 +3,7 @@
 <br>
 
 <p>Here are 3 emoji's that best describe me --> 😂 ♥️ 🤙
-  <br>I am currently loving MERN Stack (for a while now) but Java along with Swift will always have a spot in my heart.</p>
+  <br>I am currently loving MERN Stack (for a while now) but Java along with Swift will always have a place in my heart.</p>
 
 <p>
 You can find me on these platforms <br>
