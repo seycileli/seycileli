@@ -2,15 +2,12 @@
 <h3 align="center">I'm a passionate developer from New York City.</h3>
 <br>
 
-<p>Here are 3 emoji's that best describe me --> 😂 ♥️ 🤙
-  <br>I am currently loving MERN Stack (for a while now) but Java along with Swift will always have a place in my heart.</p>
+<p>Spread ♥️
+<br>Visual Designer and Low-Code Webflow Developer, but Java along with Swift will always have a place in my heart.<br>I bring a unique blend of artistry and strategy to the table, ensuring that every design choice serves a purpose in telling your brand story. From impactful logos to immersive digital experiences, my goal is to craft a visual identity that catches the eye and leaves a lasting impression.<br></p>
 
 <p>
-You can find me on these platforms <br>
-  <hr>
-  <br><a href="https://twitter.com/seycileli">Twitter<a>
-  <br><a href="https://www.figma.com/@seycileli">Figma<a>
-  
-  <br>
-  <br>Let's connect 🤙
+You can find me on these platforms<br>
+<hr>
+<br><a href="https://linkedin.com/in/seyademcileli">LinkedIn<a>
+<br>
 </p>
